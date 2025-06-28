@@ -1,0 +1,9 @@
+{
+  "name": "ui-library",
+  "version": "1.0.0",
+  "svelte": "src",
+  "exports": {
+    "./ThemeProvider.svelte": "./src/ThemeProvider.svelte",
+    "./Button.svelte": "./src/Button.svelte"
+  }
+}
