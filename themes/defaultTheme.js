@@ -1,6 +1,6 @@
 export const defaultTheme = {
   colors: {
-    primary: '#2468AC',
+    primary: '#123456',  // new brand color
     textOnPrimary: '#FFFFFF'
   },
   typography: {
@@ -8,7 +8,7 @@ export const defaultTheme = {
     fontSize: '14px'
   },
   spacing: {
-    medium: '10px 20px'
+    medium: '12px 24px'  // new spacing
   },
-  borderRadius: '4px'
+  borderRadius: '6px'
 };
